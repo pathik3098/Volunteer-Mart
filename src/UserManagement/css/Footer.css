@@ -1,0 +1,12 @@
+/* Author : Pathik Kumar Patel */
+
+body{
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+}
+.main-footer{
+    background-color: #DEEDD6;
+    margin:auto
+}
+
