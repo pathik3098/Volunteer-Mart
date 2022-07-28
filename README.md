@@ -12,3 +12,18 @@ Objective of our project is to ease the shopping experience for the people with 
   <li>Improving shopping experience by displaying a wide variety of products to choose from all the stores having that product in their stock.</li>
   <li>Contributing to the digital era by bringing shopping of daily needs of food at the user’s fingertips.</li>
 </ul>
+
+<h2>Application Images</h2>
+<ul>
+  <li><h3>Landing Page</h3><img width="1164" alt="Screen Shot 2022-07-28 at 1 38 44 PM" src="https://user-images.githubusercontent.com/41354668/181592645-4cb9b1be-8a28-4e71-88f0-787445194746.png"></li>
+  
+  
+  <li><h3>Login Page</h3> <img width="1164" alt="Screen Shot 2022-07-28 at 1 39 46 PM" src="https://user-images.githubusercontent.com/41354668/181592876-3670934b-54a8-4950-91fa-94e3c4fd733c.png"></li>
+  
+  <li><h3>Product Catalogue</h3> <img width="1164" alt="Screen Shot 2022-07-28 at 1 40 50 PM" src="https://user-images.githubusercontent.com/41354668/181593170-0c86d80c-30e4-4c0e-a35a-b198a8f9ec12.png"></li>
+
+</ul>
+
+
+
+
